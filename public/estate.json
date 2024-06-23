@@ -1,0 +1,75 @@
+[
+    {
+      "image": "https://i.ibb.co/zrXcHYS/estate1.png",
+      "estate_title": "Cozy Countryside Home",
+      "id": 1,
+      "segment_name": "Single-family homes",
+      "description": "Single-family homes are independent residential structures designed for one family, providing ample space and privacy. These homes often feature a yard, multiple bedrooms, and personal parking, ideal for raising a family. They are typically situated in suburban neighborhoods, offering a sense of community and belonging. Owners have the autonomy to customize their living spaces and landscaping to suit personal tastes and needs.",
+      "price": "$250,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Countryside, California",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+    },
+    {
+      "image": "https://i.ibb.co/NsF3skw/estate2.png",
+      "estate_title": "Modern Townhouse",
+      "id": 2,
+      "segment_name": "Townhouses",
+      "description": "A modern townhouse offers a contemporary and stylish living option, featuring clean lines and minimalist design. These multi-level homes maximize space efficiency and often include high ceilings, large windows, and eco-friendly materials. Amenities like smart home technology, private terraces, and energy-efficient appliances cater to modern lifestyles. Located in urban or suburban areas, they provide a balance of community and privacy.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Downtown, New York",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+    },
+    {
+      "image": "https://i.ibb.co/BwF9Xgr/estate3.png",
+      "estate_title": "Luxury Apartment",
+      "id": 3,
+      "segment_name": "Apartments",
+      "description": "Luxury apartments offer premium living spaces with high-end finishes, state-of-the-art appliances, and sophisticated design. Residents enjoy exclusive amenities such as fitness centers, swimming pools, concierge services, and often breathtaking views. These upscale residences prioritize comfort, security, and convenience, catering to those who seek an opulent lifestyle in prime urban locations or scenic settings.",
+      "price": "$2,000/month",
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "City Center, Los Angeles",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+    },
+    {
+      "image": "https://i.ibb.co/z7xZYrr/estate4.png",
+      "estate_title": "Student Residence",
+      "id": 4,
+      "segment_name": "Student housing",
+      "description": "A student residence is a housing facility specifically designed for college and university students. These accommodations provide a convenient and supportive environment, often located near campuses. They include essential amenities like furnished rooms, communal kitchens, study areas, and social spaces. Student residences foster a community atmosphere, promoting both academic success and personal growth among residents from diverse backgrounds.",
+      "price": "$500/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "University District, Boston",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+    },
+    {
+      "image": "https://i.ibb.co/LvzMTQX/estate5.png",
+      "estate_title": "Senior Living Community",
+      "id": 5,
+      "segment_name": "Senior living communities",
+      "description": "A senior living community is a residential complex designed to accommodate older adults who seek a low-maintenance lifestyle with convenient amenities. These communities often provide services such as meals, housekeeping, and social activities, along with healthcare support. They are tailored to promote independence while offering various levels of care, from independent living to assisted living and memory care, catering to the specific needs of its residents.",
+      "price": "$3,000/month",
+      "status": "rent",
+      "area": "1800 sq ft",
+      "location": "Sunnyvale, Florida",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+    },
+    {
+      "image": "https://i.ibb.co/pWtdM91/estate6.png",
+      "estate_title": "Beachfront Vacation Rental",
+      "id": 6,
+      "segment_name": "Vacation rentals",
+      "description": "A beachfront vacation rental offers a serene escape right at the edge of the ocean. Guests enjoy stunning sea views, direct beach access, and the soothing sounds of waves. These rentals typically feature spacious accommodations with modern amenities, outdoor terraces, and often include extras like beach gear and water sports equipment, making them ideal for a relaxing and fun-filled getaway.",
+      "price": "$4,000/week",
+      "status": "rent",
+      "area": "2200 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+    }
+  ]
+  
